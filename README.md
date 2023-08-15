@@ -1,4 +1,4 @@
-# Software de Mesclagem de Arquivos PDF para Windows
+# Software de Mesclagem de Arquivos PDF
 
 Este projeto oferece uma solução simples em Python para mesclar múltiplos arquivos PDF em um único documento PDF. Ele utiliza a biblioteca `pypdf2` para manipulação de PDFs e a biblioteca `easygui` para interações com a interface gráfica.
 
@@ -45,7 +45,7 @@ python src/main.py
 
 ## 📌 Autor ##
 
-- João Erick: [Github](https://github.com/JoaoErick) - [Linkedin](https://www.linkedin.com/in/joão-erick-barbosa-9050801b0/) - [E-mail](contatojoaoerickbarbosa@gmail.com)
+- João Erick: [Github](https://github.com/JoaoErick) - [Linkedin](https://www.linkedin.com/in/joão-erick-barbosa-9050801b0/) - [E-mail](mailto:contatojoaoerickbarbosa@gmail.com)
 
 ## ⚖️ Licença ##
 
